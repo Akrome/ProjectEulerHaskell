@@ -7,10 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="411f9088-7137-4e8c-938f-f97852b0c037" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P0012.hs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P0013.hs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P0014.hs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P0015.hs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
@@ -22,6 +18,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/P0006.hs" afterPath="$PROJECT_DIR$/src/P0006.hs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/P0007.hs" afterPath="$PROJECT_DIR$/src/P0007.hs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/P0008.hs" afterPath="$PROJECT_DIR$/src/P0008.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/P0012.hs" afterPath="$PROJECT_DIR$/src/P0012.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/P0013.hs" afterPath="$PROJECT_DIR$/src/P0013.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/P0014.hs" afterPath="$PROJECT_DIR$/src/P0014.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/P0015.hs" afterPath="$PROJECT_DIR$/src/P0015.hs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectEuler.cabal" afterPath="$PROJECT_DIR$/ProjectEuler.cabal" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectEuler.iml" afterPath="$PROJECT_DIR$/ProjectEuler.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Setup.hs" afterPath="$PROJECT_DIR$/Setup.hs" />
@@ -59,16 +59,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="9" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P0011.hs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P0011.hs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -144,11 +134,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P0015.hs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P0015.hs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/P0015.hs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2820513">
+            <state vertical-scroll-proportion="0.0">
               <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P0009.hs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/P0009.hs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.03883495">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="8" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -527,26 +527,26 @@
       <workItem from="1437574416240" duration="7497000" />
       <workItem from="1438004700263" duration="11000" />
       <workItem from="1438004716796" duration="6337000" />
-      <workItem from="1438012073221" duration="300000" />
+      <workItem from="1438012073221" duration="354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33062000" />
+    <option name="totallyTimeSpent" value="33116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-148" width="1098" height="1890" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.50213903" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35344827" sideWeight="0.49786097" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35344827" sideWeight="0.49786097" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25339806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25339806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SonarQube" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -661,6 +661,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="8" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -734,6 +735,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="8" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -847,13 +849,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P0009.hs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/P0008.hs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -956,8 +951,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/P0015.hs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2820513">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P0009.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03883495">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="8" selection-end-column="2" />
           <folding />
         </state>
       </provider>
