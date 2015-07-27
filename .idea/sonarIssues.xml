@@ -3,6 +3,31 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/ocado/supplychain/utopiadata/1.8.0-SNAPSHOT/utopiadata-1.8.0-SNAPSHOT.jar!/com/ocado/supplychain/utopiadata/interfaces/beans/Rog.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/ocado/supplychain/utopiadata/1.8.0-SNAPSHOT/utopiadata-1.8.0-SNAPSHOT.jar!/com/ocado/supplychain/utopiadata/interfaces/beans/Rog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ATP-web/.hgignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ATP-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.gitignore">
           <value>
             <set />
@@ -44,6 +69,86 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/P0008.hs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/P0009.hs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/P0010.hs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/P0011.hs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/helpers/Primes.hs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../StockForecast/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Utopia/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Utopia/src/main/java/com/ocado/utopia/interfaces/services/impl/RogInterfaceServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Utopia/src/test/java/com/ocado/supplychain/utopiadata/ordering/dao/hibernate/OrderHandlingUtility.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Utopia/src/test/java/com/ocado/supplychain/utopiadata/ordering/dao/hibernate/TestTheOrderHandlingLogic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Utopia/src/test/java/com/ocado/utopia/aseries/jms/consumers/PurchaseOrderInterfaceConsumerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../UtopiaData/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XChangeLite/src/main/java/com/ocado/xchangelite/core/XChangeDestination.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Xchange/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Xchange/src/main/java/com/ocado/supplychain/xchange/common/enums/CFC.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Xchange/src/test/java/com/ocado/supplychain/xchange/DTOTestRun.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../playground/src/main/java/com/akrome/Solution.java">
           <value>
             <set />
           </value>
